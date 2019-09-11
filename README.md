@@ -1,4 +1,4 @@
-# Et Timores Cordis (Heart Rate) Game Project
+# Et Timores Cordis (Heart Rate) Horror Game Project with Photorealistic 8k Textures
 
 ## Summary
 The nature of what makes a horror game create fear on whomever is playing is to be studied and explored by first reviewing several methods and effects that different environments can have on a subject with a Light and Sound driven scenarios, which includes real life subject testing.
