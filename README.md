@@ -8,7 +8,7 @@ In this project, with the help of a Heart Rate Monitor, the user plays a charact
 ## Game Demo Youtube Link:
   https://youtu.be/Y-Swf6dlfzM
   
-## Thumbnail
+## Thumbnails
   
   <img src= "https://i.imgur.com/KJU8jo2.png" width= "2000">
   <img src= "https://i.imgur.com/cYjBTEU.png" width= "2000">
