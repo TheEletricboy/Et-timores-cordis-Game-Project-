@@ -6,7 +6,7 @@ The nature of what makes a horror game create fear on whomever is playing is to 
 In this project, with the help of a Heart Rate Monitor, the user plays a character in a crumbling space station that has had an unkown emergency and must explore it. ALL the assets, textures, some sounds, and most of the code, was made by me from scratch.
 
 ## Game Demo Youtube Link:
-[![Et Timores Cordis](http://img.youtube.com/vi/Y-Swf6dlfzM/0.jpg)](http://youtu.be/Y-Swf6dlfzM "Et Timoris Cordis: A Space Horror Game Project")
+
 
   https://youtu.be/Y-Swf6dlfzM
   
