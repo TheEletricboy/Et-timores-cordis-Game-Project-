@@ -12,6 +12,7 @@ In this project, with the help of a Heart Rate Monitor, the user plays a charact
   
 ## Thumbnails
   
+  <img src= "https://i.imgur.com/mHTozs6.png" width= "2000">
   <img src= "https://i.imgur.com/KJU8jo2.png" width= "2000">
   <img src= "https://i.imgur.com/cYjBTEU.png" width= "2000">
   <img src= "https://i.imgur.com/z44gNF1.png" width= "2000">
